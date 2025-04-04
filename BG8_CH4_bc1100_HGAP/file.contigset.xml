@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbds:ContigSet CreatedAt="2019-05-09T20:22:34" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_192757509 AND pacbio_dataset_contigset-190509_192641252 AND pacbio_dataset_contigset-190509_201743460 AND pacbio_dataset_contigset-190509_192537470 AND pacbio_dataset_contigset-190509_194114061 AND pacbio_dataset_contigset-190509_195725912 AND pacbio_dataset_contigset-190509_200846902 AND pacbio_dataset_contigset-190509_202213987 AND pacbio_dataset_contigset-190509_185247638 AND pacbio_dataset_contigset-190509_190316114 AND pacbio_dataset_contigset-190509_185910861 AND pacbio_dataset_contigset-190509_192236509 AND pacbio_dataset_contigset-190509_195533403 AND pacbio_dataset_contigset-190509_194735222 AND pacbio_dataset_contigset-190509_200357491 AND pacbio_dataset_contigset-190509_191618578 AND pacbio_dataset_contigset-190509_190952470 AND pacbio_dataset_contigset-190509_193858216 AND pacbio_dataset_contigset-190509_201348619 AND pacbio_dataset_contigset-190509_193226538 AND pacbio_dataset_contigset-190509_200424171 AND pacbio_dataset_contigset-190509_194850735 AND pacbio_dataset_contigset-190509_194918166 AND pacbio_dataset_contigset-190509_194806692" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_202234893" UniqueId="2003ab3a-5bfc-e6ad-b7f2-6f30656ff89d" Version="3.0.1" xmlns:pbbase="http://pacificbiosciences.com/PacBioBaseDataModel.xsd" xmlns:pbds="http://pacificbiosciences.com/PacBioDatasets.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+	<pbbase:ExternalResources>
+		<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/pbcoretools.tasks.gather_contigset-1/file.contigset.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_202235595" UniqueId="fd33b563-f449-47f1-9517-f0d46ac09ea6">
+			<pbbase:FileIndices>
+				<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/pbcoretools.tasks.gather_contigset-1/file.contigset.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_202235595" UniqueId="209fbd3a-b1f0-4146-9ad8-13717a906990"/>
+			</pbbase:FileIndices>
+		</pbbase:ExternalResource>
+	</pbbase:ExternalResources>
+	<pbds:DataSets>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:27:57" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_192757509" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_192757509" UniqueId="6cd1ee7a-946a-a43f-de29-af9475d88707" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-19/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_192757507" UniqueId="2d49368a-3b93-494f-b3a0-5a8e1984d155">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-19/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_192757508" UniqueId="155f360d-6ed6-4585-add4-4d53a8c34028"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>90139</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:26:41" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_192641252" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_192641252" UniqueId="869be79b-a475-53a0-aa3b-0ebbb9b8cab5" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-20/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_192641250" UniqueId="d6fdf837-3d5c-4569-8437-4177a0f4c9c0">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-20/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_192641250" UniqueId="c0817cb0-bd9e-46c5-bace-c6f1ad886348"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>70365</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T13:17:43" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_201743460" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_201743460" UniqueId="84f3e371-4367-d8e0-9f5c-5c2950b7fa83" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-15/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_201743459" UniqueId="66aee9c6-6b13-45bc-8d66-423a0f3506bd">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-15/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_201743460" UniqueId="9870b027-5d3b-4f96-8a01-789a6e47fd34"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>331392</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:25:37" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_192537470" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_192537470" UniqueId="05a27c27-1e44-e75b-2e3a-0df88f176964" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-16/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_192537468" UniqueId="040eeb93-206c-40df-9d17-2168530e357c">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-16/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_192537468" UniqueId="8ac111f4-54f3-4dc6-9010-b69881b036f4"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>250161</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:41:14" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_194114061" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_194114061" UniqueId="6c1bc34d-bf7c-ff13-a4c5-a2be50a3869f" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-17/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_194114060" UniqueId="1412b9f8-011c-4256-ad9d-f1229a71fda6">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-17/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_194114060" UniqueId="dcfa4df8-d3a5-4215-a203-5be6d204c412"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>179699</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:57:25" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_195725912" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_195725912" UniqueId="efd45315-f6db-b909-4336-f839d7f521b7" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-18/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_195725910" UniqueId="dbc82aa6-d093-4cf8-803e-c31ecba0c9c1">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-18/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_195725911" UniqueId="f052bf01-4589-4846-9678-e3b95ed727e6"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>138661</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T13:08:46" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_200846902" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_200846902" UniqueId="be6f9636-5e58-8a52-538d-1fb4bcb6b6cd" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-11/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_200846901" UniqueId="149e935f-12e9-4d4e-ab94-c024ddc72ead">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-11/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_200846901" UniqueId="f010a1a4-4a68-4dda-b2b0-c77c2388d146"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>384457</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T13:22:13" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_202213987" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_202213987" UniqueId="dc282b76-04e8-9d4d-fb37-12765e6ca515" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-12/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_202213985" UniqueId="0ea7eb88-af27-47ab-8cc4-c74dfe59958c">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-12/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_202213985" UniqueId="3135c516-296f-4714-82f6-e09726ab0169"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>384425</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T11:52:47" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_185247638" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_185247638" UniqueId="fe68f87c-a25d-77b5-ded0-431fa19d5b83" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-13/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_185247636" UniqueId="0277fc2a-ccb8-4478-b156-6bf6c73d434f">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-13/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_185247636" UniqueId="bcd5bba0-cc04-4663-9ba2-08f94d850136"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>350401</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:03:16" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_190316114" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_190316114" UniqueId="da6f87ce-b08d-1776-aba2-7222b11848a6" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-14/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_190316112" UniqueId="6abc5a1d-ce9b-4534-ae40-d21d8a1a6a14">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-14/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_190316112" UniqueId="e87eb589-2f6d-444f-9020-e44bb58786db"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>350375</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T11:59:10" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_185910861" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_185910861" UniqueId="f7787ce3-6adb-73e2-11da-d0d9358491b0" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-7/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_185910859" UniqueId="31045563-b654-415b-95bd-c61ba7a8424d">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-7/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_185910860" UniqueId="48c1f5d5-f3d8-40d9-9e1e-ddb8c38e0c19"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>556539</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:22:36" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_192236509" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_192236509" UniqueId="c0e91e87-f788-0145-2502-ce9366700e11" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-8/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_192236508" UniqueId="6de5994e-d5db-408e-b1d5-04481b575c38">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-8/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_192236508" UniqueId="cb4c6bd1-d732-4176-aeb7-0e5a7edf7894"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>556724</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:55:33" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_195533403" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_195533403" UniqueId="2dab4c6d-7184-0483-bcb0-2b74b6f6bc71" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-5/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_195533401" UniqueId="be91cc16-5160-43a3-8678-712645de9c44">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-5/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_195533401" UniqueId="f0e02339-0803-4acb-b016-187a39e8420e"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>556619</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:47:35" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_194735222" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_194735222" UniqueId="ef3946d0-475c-6c4f-c7e6-c98752643bec" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-6/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_194735220" UniqueId="4f78c87f-86e6-463a-ba1f-31e42dcb05b3">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-6/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_194735220" UniqueId="cac5e4fa-62e1-49dd-aa20-773adb5bf298"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>556631</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T13:03:57" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_200357491" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_200357491" UniqueId="1036699c-e5ac-1f64-c331-ff197c72e91a" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-3/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_200357489" UniqueId="19f94f52-2e43-4bc3-b223-ee5980689417">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-3/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_200357489" UniqueId="e30f7649-0057-40e2-9d9b-f752e4c8d0d5"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>574341</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:16:18" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_191618578" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_191618578" UniqueId="8b245bd7-6dc1-e80c-91fc-0aae24e4207a" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-4/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_191618577" UniqueId="5b3686ce-d67e-4796-a634-b488af612b55">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-4/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_191618577" UniqueId="cb55508b-0705-422f-b1ef-a67d99838dc9"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>571187</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:09:52" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_190952470" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_190952470" UniqueId="5aa79854-fb69-dfc7-c100-72d0370b6c4e" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-1/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_190952468" UniqueId="58993463-a85a-486a-aa0c-83156373e9b6">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-1/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_190952468" UniqueId="5dd96ada-154f-4652-84e9-fe56fb4c088b"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>574344</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:38:58" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_193858216" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_193858216" UniqueId="ec5415e8-5172-3211-9027-5236c16794b4" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-2/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_193858215" UniqueId="110ca8c9-6c2b-4b81-ba52-2a5c2f1a171a">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-2/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_193858215" UniqueId="3d38c238-4d9c-434b-9ea4-65f5ffb60ee9"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>574352</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T13:13:48" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_201348619" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_201348619" UniqueId="b7f2888e-615d-2db3-1cd3-080e45006e8c" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-9/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_201348617" UniqueId="395bb984-d4b6-41b1-9214-52220f723b64">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-9/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_201348617" UniqueId="7f18ceb8-e7c6-4770-b820-81f672b2c9f3"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>437510</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:32:26" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_193226538" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_193226538" UniqueId="b4133ebf-b3ea-adcf-c998-5c93213a4409" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-10/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_193226536" UniqueId="11ffb7b9-957d-46ae-ace4-3180d97a59e2">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-10/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_193226537" UniqueId="c3a0d84a-468e-4d21-98fe-0736763f3df3"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>384391</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T13:04:24" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_200424171" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_200424171" UniqueId="9ea73e44-09fa-fc59-8e41-4f83dccbb21f" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-22/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_200424169" UniqueId="f969af6f-4ac4-49fe-b80b-f7970b643ce3">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-22/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_200424169" UniqueId="e123c876-edcb-492f-861d-77422eb4118c"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>10823</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:48:50" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_194850735" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_194850735" UniqueId="fd8023c0-2fb4-454b-603d-2a06ff31cf33" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-21/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_194850733" UniqueId="db070df1-038c-43df-91b2-8d4c44a505c8">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-21/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_194850733" UniqueId="f7ea7643-5320-43f9-956d-068eaab7c3d4"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>47177</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:49:18" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_194918166" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_194918166" UniqueId="14f152cc-e509-0b9e-8215-e0bc47531cb3" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-24/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_194918165" UniqueId="885f9731-a45b-481b-8f8c-c9e9996ca1a7">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-24/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_194918165" UniqueId="1cc1cef0-aab4-4c42-9ec1-6bdfb6ce8a13"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>9254</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+		<pbds:ContigSet CreatedAt="2019-05-09T12:48:06" MetaType="PacBio.DataSet.ContigSet" Name="pacbio_dataset_contigset-190509_194806692" Tags="" TimeStampedName="pacbio_dataset_contigset-190509_194806692" UniqueId="a5bb4d9f-3aff-3b5a-4d10-71433884a299" Version="3.0.1" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+			<pbbase:ExternalResources>
+				<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-23/consensus.fasta" TimeStampedName="pacbio_contigfile_contigfastafile-190509_194806690" UniqueId="dbfc11d5-ad80-47e5-a1bf-7252764a1dfc">
+					<pbbase:FileIndices>
+						<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/net/eichler/vol24/projects/sequencing/pacbio/smrt-link/userdata/jobs_root/002/002061/tasks/genomic_consensus.tasks.variantcaller-23/consensus.fasta.fai" TimeStampedName="pacbio_index_samindex-190509_194806690" UniqueId="af96f224-a1cf-4cd0-95df-1a2c06b42119"/>
+					</pbbase:FileIndices>
+				</pbbase:ExternalResource>
+			</pbbase:ExternalResources>
+			<pbds:DataSetMetadata>
+				<pbds:TotalLength>9411</pbds:TotalLength>
+				<pbds:NumRecords>1</pbds:NumRecords>
+				<pbds:Organism/>
+				<pbds:Ploidy/>
+			</pbds:DataSetMetadata>
+		</pbds:ContigSet>
+	</pbds:DataSets>
+	<pbds:DataSetMetadata>
+		<pbds:TotalLength>7949378</pbds:TotalLength>
+		<pbds:NumRecords>16</pbds:NumRecords>
+		<pbds:Organism/>
+		<pbds:Ploidy/>
+	</pbds:DataSetMetadata>
+</pbds:ContigSet>
